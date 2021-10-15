@@ -58,10 +58,10 @@ Here is Link for that : [1] https://www.ted.com/talks/sean_follmer_shape_shiftin
 
 ### References
     
-   [1] https://www.ted.com/talks/sean_follmer_shape_shifting_tech_will_change_work_as_we_know_it#t-316723
-   [2] https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/human-computer-interaction-brief-intro
-   [3] https://www.cs.cmu.edu/~amulet/papers/uihistory.tr.html
-   [4] https://www.interaction-design.org/literature/topics/human-computer-interaction
+   - [1] https://www.ted.com/talks/sean_follmer_shape_shifting_tech_will_change_work_as_we_know_it#t-316723
+   - [2] https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/human-computer-interaction-brief-intro
+   - [3] https://www.cs.cmu.edu/~amulet/papers/uihistory.tr.html
+   - [4] https://www.interaction-design.org/literature/topics/human-computer-interaction
 
 
 
