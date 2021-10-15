@@ -29,7 +29,7 @@ What is HCI ?
 ### SketchPad
    - Sketchpad - 1963 PhD thesis at MIT
    - Hierarchy - pictures & subpictures
-   - Master picture with instances ( i.e. , OOP)
+   - Master picture with instances ( i.e. , OOP)                ![image](https://user-images.githubusercontent.com/61627416/137537150-cbae90f8-b4d4-4cf4-8080-f163d0374ca0.png)
    - Constraints                                                                                                   
    - Icons
    - Copying
@@ -64,6 +64,7 @@ Here is Link for that : [1] https://www.ted.com/talks/sean_follmer_shape_shiftin
    [4] https://www.interaction-design.org/literature/topics/human-computer-interaction
 
 
+![image](https://user-images.githubusercontent.com/61627416/137537114-6294734a-8f9e-4064-b19e-ca2dc3e8442d.png)
 
 
 
