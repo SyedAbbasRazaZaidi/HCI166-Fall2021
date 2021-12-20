@@ -107,7 +107,17 @@ Add some description of the idea here.
 ![Add the image of individual brainstorming session to gitHub and then put its link here](Image link "Hover Text")
 
 ## Ideas by Member 2
-![Add the image of individual brainstorming session to gitHub and then put its link here](Image link "Hover Text")
+
+1. Facial Recognition and Training the model       11.snkjaskldlk
+2. Application for video call
+3. Interactive Control Box
+4. Training Video for students and teachers
+5. Breakout Rooms
+6. Speaker and audio system
+7. AI based E-attendence
+8. Mobile Sponsors for students
+9. Pait generator for class activities
+10. AI based subtitile generator
 
 ## Ideas by Member 3
 ![Ideas](https://user-images.githubusercontent.com/61631420/146558789-c2d19d2d-0b0d-473c-bf70-a642e83f3c17.jpeg)
