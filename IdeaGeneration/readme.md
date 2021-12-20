@@ -108,7 +108,8 @@ Add some description of the idea here.
 
 ## Ideas by Member 2
 
-<img src="https://user-images.githubusercontent.com/61619701/146823911-ddaad7e0-f193-4b11-af54-437ef5891f9b.jpeg">
+
+<img src="https://user-images.githubusercontent.com/61619701/146824321-4ccf2efe-f296-477d-a38a-e1cf86eafb7a.jpeg">
 
 
 
