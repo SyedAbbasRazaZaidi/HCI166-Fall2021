@@ -107,6 +107,10 @@ Add some description of the idea here.
 ![Add the image of individual brainstorming session to gitHub and then put its link here](Image link "Hover Text")
 
 ## Ideas by Member 2
+
+(https://user-images.githubusercontent.com/61619701/146823911-ddaad7e0-f193-4b11-af54-437ef5891f9b.jpeg)
+
+
 |Ideas|Ideas|
 |-|-|
 |1. Facial Recognition and Training the model|11. Live Annotations|
