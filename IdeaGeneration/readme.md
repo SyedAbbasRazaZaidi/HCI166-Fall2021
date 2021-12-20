@@ -109,16 +109,16 @@ Add some description of the idea here.
 ## Ideas by Member 2
 |Ideas|Ideas|
 |-|-|
-|1. Facial Recognition and Training the model||11. Live Annotations|
-|2. Application for video call||12. Complete Management system|
-|3. Interactive Control Box||13. Mobile application for complete system|
-|4. Training Video for students and teachers||14. Take local server for internet|
-|5. Breakout Rooms||15. Socialized b/w classes (boost learning)|
-|6. Speaker and audio system||16. AI based monitor learning|
-|7. AI based E-attendence||17. Digital whiteboard|
-|8. Mobile Sponsors for students||18. Student engagement activities|
-|9. Pait generator for class activities||19. Virtual Classroom|
-|10. AI based subtitile generator||20. Support content via Data analytics|
+|1. Facial Recognition and Training the model|11. Live Annotations|
+|2. Application for video call|12. Complete Management system|
+|3. Interactive Control Box|13. Mobile application for complete system|
+|4. Training Video for students and teachers|14. Take local server for internet|
+|5. Breakout Rooms|15. Socialized b/w classes (boost learning)|
+|6. Speaker and audio system|16. AI based monitor learning|
+|7. AI based E-attendence|17. Digital whiteboard|
+|8. Mobile Sponsors for students|18. Student engagement activities|
+|9. Pait generator for class activities|19. Virtual Classroom|
+|10. AI based subtitile generator|20. Support content via Data analytics|
 
 ## Ideas by Member 3
 ![Ideas](https://user-images.githubusercontent.com/61631420/146558789-c2d19d2d-0b0d-473c-bf70-a642e83f3c17.jpeg)
