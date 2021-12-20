@@ -107,8 +107,9 @@ Add some description of the idea here.
 ![Add the image of individual brainstorming session to gitHub and then put its link here](Image link "Hover Text")
 
 ## Ideas by Member 2
-
-|1. Facial Recognition and Training the model|||
+|Ideas|Ideas|
+|-|-|
+|1. Facial Recognition and Training the model||dbjjjjjj|
 |2. Application for video call| 
 |3. Interactive Control Box|
 |4. Training Video for students and teachers|
