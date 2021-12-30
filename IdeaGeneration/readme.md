@@ -25,30 +25,31 @@ Our Problem is Hybrid Classrooms for Underprivillaged Students so to focus we ha
 ## Final 10 Ideas Selected
 
 ### IDEA 1: Proctor Based Examination System Web App (original by [Abbas])
-Add some description of the idea here. 
+A web proctored exam Application, involves a proctor overseeing an exam and monitoring the students online by using a webcam-and-microphone-compatible computer and an uninterrupted internet connection.
 |PROS|CONS|
 |-|-|
-|blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
-|blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah blah blah...|
-|blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
+|Students Living in Remote Area can Give Exams Easily |Un-Trained User cannot proctor Exams as it will be a bit difficult to manage|
+|Enhanced AI Based and Proctor Based Monitoring |Requires high speed internet connectivity so would be a bit difficult to use in remote areas|
+|Easy and Transparent Monitoring with Secure Connections|A bit difficult to use in untidy envirnment beacuse if it objectify someone around your envirnment it will cancel the exam|
 
 ---
-### IDEA 2: Pop Quiz Application for Interactive Learning (original by [Abbas])
-Add some description of the idea here. 
+### IDEA 2: AI Based Pop Quiz Application for Interactive Learning (original by [Abbas])
+AI Based Pop up Quiz Application is actullay designed to see that if the user is actually learning something with reference to the topic tought by the instructor or not it uses 
+AI to generate randome question for topic being teached and asks each user a different question in different time frames.
 |PROS|CONS|
 |-|-|
-|blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
-|blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah blah blah...|
-|blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
+|Great For interactive Learning |Will Bug some users due to popup screen|
+|Test Availibiltiy of the user during remote online sessions |Requuires internet Connectivity to generate randome questions |
+|Generates Questions Automatically with refernce to the topic being discussed |No availiblity of reports for analytics about the answered questions |
 
 ---
 ### IDEA 3: Learning path Application just like microsoft (original by [Abbas])
-Add some description of the idea here. 
+Our Learning Path is basically a platform whish consist of enhanced and high level resources from whish we can study different courses it can be accessed offline so remote users with less internet connectivity can actually gain advantage of it.
 |PROS|CONS|
 |-|-|
-|blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
-|blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah blah blah...|
-|blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
+|Consist of all the notes in one platform |No Availibility of Asking questions in refernce to any other problem |
+|Can be Accessed offline |Some modules are just like books students can be bored due to non interactive learning content|
+|Consist of Interactive short videos and quized at the last of every module|No Track record to know if the student is actually learning something or not |
 
 ---
 ### IDEA 4: Management System to Manage Courses & Assignments (original by [Saqlain])
