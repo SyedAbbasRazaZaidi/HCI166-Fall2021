@@ -118,19 +118,19 @@ Add some description of the idea here.
 
 ## Ideas by Group Leader
 
-![Ideas](https://user-images.githubusercontent.com/61627416/147766086-6a8d71ca-848f-4367-a65e-b189f02d6fcd.jpg)
+![Ideas](https://user-images.githubusercontent.com/61627416/147766086-6a8d71ca-848f-4367-a65e-b189f02d6fcd.jpg "Ideas By Abbas")
 
 ## Ideas by Member 2
 
-![Ideas](https://user-images.githubusercontent.com/61619701/146824321-4ccf2efe-f296-477d-a38a-e1cf86eafb7a.jpeg)
+![Ideas](https://user-images.githubusercontent.com/61619701/146824321-4ccf2efe-f296-477d-a38a-e1cf86eafb7a.jpeg "Ideas By Saqlain")
 
 ## Ideas by Member 3
 
-![Ideas](https://user-images.githubusercontent.com/61631420/146558789-c2d19d2d-0b0d-473c-bf70-a642e83f3c17.jpeg)
+![Ideas](https://user-images.githubusercontent.com/61631420/146558789-c2d19d2d-0b0d-473c-bf70-a642e83f3c17.jpeg "Ideas By Ali Salman")
 
 
 
 ## Group Brainstorm Session 
-![Add the image to of group brainstorming session to gitHub and then put its link here](Image link "Hover Text")
+![Add the image to of group brainstorming session to gitHub and then put its link here]( ![Group Brain Storming](https://user-images.githubusercontent.com/61627416/147772355-ec220791-9301-4c48-a9ee-0444d3d62548.jpg "Group Branin Storming")
 
    
