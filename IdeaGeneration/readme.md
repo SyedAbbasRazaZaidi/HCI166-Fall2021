@@ -8,7 +8,19 @@
 
 
 ## Core Problem: Double Diamond Framework
-\\Remove this text\\ In this section mention what the underlying core problem is. What are the limitations and challenges. What are the actual task that are performed in regular classrooms. What tasks will be performed in an hybrid classrooms. How will these tasks changes. How can HCI help. etc. etc.
+
+Our Problem is Hybrid Classrooms for Underprivillaged Students so to focus we have divided our problem in two sections :
+    i) Underprivillaged Students
+   ii) Hyprid Classromms
+   
+ This was a basic insight to our problem now coming down to challenges we discover while solving these problems are that we want to build a hybrid classroom in a remote area
+ so how a person manage it ? Are they trained enough to use these emerging solutions? Are these solutions Compatible with our problem ? Would we be able to provide the same 
+ experience in a hybrid classrooms as provided in physical classrooms ? these all are the challenges we will have to face and build our solutions with these constraints in mind
+ while creating a enhanced User Experience in every way possible.
+ We came up with about 60 creative ideas and narrowed it to 10 best ideas out of them which works well with our problem constraints so now what should we do?
+ This is where HCI comes and plays it's part we have to design these applications in such a user friendly and interactive manner so it can be used generally by everyone not
+ just those who use computer or smartphones but for those to who have never used them before we will make the design that the user will not even experience that a interface    
+ exist between them and task performed and all it will be done by concepts of HCI... 
 
 ## Final 10 Ideas Selected
 
