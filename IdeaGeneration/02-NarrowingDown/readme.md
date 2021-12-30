@@ -57,6 +57,21 @@
 
 ### Story Boards
 
+#### Story Board Of Idea 1:
+
 * [Scenario 1](https://github.com/SyedAbbasRazaZaidi/HCI166-Fall2021/blob/main/IdeaGeneration/02-NarrowingDown/StoryBrd1_Scen1_Idea1)
 * [Scenario 2](https://github.com/SyedAbbasRazaZaidi/HCI166-Fall2021/blob/main/IdeaGeneration/02-NarrowingDown/StoryBrd2_Scen2_Idea1)
 * [Scenario 3](https://github.com/SyedAbbasRazaZaidi/HCI166-Fall2021/blob/main/IdeaGeneration/02-NarrowingDown/StoryBrd3_Scen3_Idea1)
+
+#### Story Board Of Idea 2:
+
+* [Scenario 1](https://github.com/SyedAbbasRazaZaidi/HCI166-Fall2021/blob/main/IdeaGeneration/02-NarrowingDown/StoryBrd1_Scen1_Idea2)
+* [Scenario 2](https://github.com/SyedAbbasRazaZaidi/HCI166-Fall2021/blob/main/IdeaGeneration/02-NarrowingDown/StoryBrd2_Scen2_Idea2)
+* [Scenario 3](https://github.com/SyedAbbasRazaZaidi/HCI166-Fall2021/blob/main/IdeaGeneration/02-NarrowingDown/StoryBrd3_Scen3_Idea2)
+
+#### Story Board Of Idea 3:
+
+* [Scenario 1](https://github.com/SyedAbbasRazaZaidi/HCI166-Fall2021/blob/main/IdeaGeneration/02-NarrowingDown/StoryBrd1_Scen1_Idea3)
+* [Scenario 2](https://github.com/SyedAbbasRazaZaidi/HCI166-Fall2021/blob/main/IdeaGeneration/02-NarrowingDown/StoryBrd2_Scen2_Idea3)
+* [Scenario 3](https://github.com/SyedAbbasRazaZaidi/HCI166-Fall2021/blob/main/IdeaGeneration/02-NarrowingDown/StoryBrd3_Scen3_Idea3)
+
