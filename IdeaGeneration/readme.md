@@ -93,7 +93,7 @@ A web based application for automatically making class schedule using Artificial
 |PROS|CONS|
 |-|-|
 |Time tables can automatically be made without any clashes and errors|Internet will be required to use this application so students living in remote areas will face some connection issues during online classes|
-|Students that are living very far from school or in remote areas can take the classes online easily|Changing of the time table will be a headache because changing of one class schedule will require many changes in other class timings as well|
+|Students that are living very far from school or in remote areas will be able to take the classes online|Changing of the time table will be a headache because changing of one class schedule will require many changes in other class timings as well|
 |Online sessions can also be recorded for future revision of the topics|It will require a smart device which many students will not be able to afford|
 
 ---
