@@ -76,18 +76,18 @@ Add some description of the idea here.
 Add some description of the idea here. 
 |PROS|CONS|
 |-|-|
-|blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
-|blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah blah blah...|
-|blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
+|We can access anywhere and anytime by using internet.|If the content is not responsive user facing a lot of issues .|
+|It covers a huge distance if you r in another city or country you can easily access all of the stuffs.|It may issue for instructor to create a course and manage all the things for students.|
+|Notification should be seen at a time.|Application will require regular updates to manage incorporate ongoing updates.|
 
 ---
 ### IDEA 7: AI Based Appliaction to monitor Learning (original by [Saqlain])
 Add some description of the idea here. 
 |PROS|CONS|
 |-|-|
-|blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
-|blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah blah blah...|
-|blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
+|It can allow the teachers to understand how students learn and giving the activities accordingly.|Cost of maintenance, installation, efficiency are more than high power to consume the better application.|
+|By analyzing AI can generate groups particular suited task and balance the students strength and weaknesses.|There is no way for security and students data could not be safed.|
+|Models of effective collaboration to identify effective problem solving strategies.|Extra Distraction for users via algorithm may goes wrong.|
 
 ---
 ### IDEA 8: Mobile Application to Train Teachers for Hybrid Classrooms (original by [Ali Salman])
