@@ -9,18 +9,20 @@
 
 ## Core Problem: Double Diamond Framework
 
-Our Problem is Hybrid Classrooms for Underprivillaged Students so to focus we have divided our problem in two sections :
-   * Underprivillaged Students
-   * Hyprid Classromms
-   
- This was a basic insight to our problem now coming down to challenges we discover while solving these problems are that we want to build a hybrid classroom in a remote area
- so how a person manage it ? Are they trained enough to use these emerging solutions? Are these solutions Compatible with our problem ? Would we be able to provide the same 
- experience in a hybrid classrooms as provided in physical classrooms ? these all are the challenges we will have to face and build our solutions with these constraints in mind
- while creating a enhanced User Experience in every way possible.
- We came up with about 60 creative ideas and narrowed it to 10 best ideas out of them which works well with our problem constraints so now what should we do?
- This is where HCI comes and plays it's part we have to design these applications in such a user friendly and interactive manner so it can be used generally by everyone not
- just those who use computer or smartphones but for those to who have never used them before we will make the design that the user will not even experience that a interface    
- exist between them and task performed and all it will be done by concepts of HCI... 
+Our Problem is Hybrid Classrooms for Underprivileged Students.So to focus on the problem we have divided our problem in two sections:
+
+*Underprivileged Students
+
+*Hybrid Classrooms
+
+This was a basic insight to our problem. Now coming down to challenges we faced while solving these problems. We discovered that we want to build a hybrid classroom in a remote area so
+
+How a person can manage it?
+Are they trained enough to use these emerging solutions?
+Are these solutions Compatible with our problem?
+Would we be able to provide the same experience in a hybrid classrooms as provided in physical classrooms?
+
+These are all the challenges we will have to face and build our solutions having these constraints in mind while creating an enhanced User Experience in every way possible. We came up with about 60 creative ideas and narrowed it down to 10 best ideas which works well with our problem constraints so now what should we do? This is where HCI comes and plays it's role. We have to design these applications in such a user friendly and interactive manner so it can be used generally by everyone not just those who are familiar using computer or smartphones but for those who have never used them before and all will be done by using the concepts of HCI.
 
 ## Final 10 Ideas Selected
 
