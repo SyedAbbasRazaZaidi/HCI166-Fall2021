@@ -123,7 +123,7 @@ Add some description of the idea here.
 |6. Speaker and audio system|16. AI based monitor learning|
 |7. AI based E-attendence|17. Digital whiteboard|
 |8. Mobile Sponsors for students|18. Student engagement activities|
-|9. Pait generator for class activities|19. Virtual Classroom|
+|9. Pair generator for class activities|19. Virtual Classroom|
 |10. AI based subtitile generator|20. Support content via Data analytics|
 
 ## Ideas by Member 3
