@@ -24,7 +24,7 @@ Our Problem is Hybrid Classrooms for Underprivillaged Students so to focus we ha
 
 ## Final 10 Ideas Selected
 
-### IDEA 1: Blah blah (original by [mention the member's name])
+### IDEA 1: Proctor Based Examination System Web App (original by [Abbas])
 Add some description of the idea here. 
 |PROS|CONS|
 |-|-|
@@ -33,7 +33,7 @@ Add some description of the idea here.
 |blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
 
 ---
-### IDEA 2: Blah blah (original by [mention the member's name])
+### IDEA 2: Pop Quiz Application for Interactive Learning (original by [Abbas])
 Add some description of the idea here. 
 |PROS|CONS|
 |-|-|
@@ -42,7 +42,7 @@ Add some description of the idea here.
 |blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
 
 ---
-### IDEA 3: Blah blah (original by [mention the member's name])
+### IDEA 3: Learning path Application just like microsoft (original by [Abbas])
 Add some description of the idea here. 
 |PROS|CONS|
 |-|-|
@@ -51,7 +51,7 @@ Add some description of the idea here.
 |blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
 
 ---
-### IDEA 4: Blah blah (original by [mention the member's name])
+### IDEA 4: Management System to Manage Courses & Assignments (original by [Saqlain])
 Add some description of the idea here. 
 |PROS|CONS|
 |-|-|
@@ -60,7 +60,7 @@ Add some description of the idea here.
 |blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
 
 ---
-### IDEA 5: Blah blah (original by [mention the member's name])
+### IDEA 5: Application for Video call (original by [Saqlain])
 Add some description of the idea here. 
 |PROS|CONS|
 |-|-|
@@ -69,7 +69,7 @@ Add some description of the idea here.
 |blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
 
 ---
-### IDEA 6: Blah blah (original by [mention the member's name])
+### IDEA 6: Mobile Application to submit Assignments & Notes w.r.t Courses (original by [Saqlain])
 Add some description of the idea here. 
 |PROS|CONS|
 |-|-|
@@ -78,7 +78,7 @@ Add some description of the idea here.
 |blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
 
 ---
-### IDEA 7: Blah blah (original by [mention the member's name])
+### IDEA 7: AI Based Appliaction to monitor Learning (original by [Saqlain])
 Add some description of the idea here. 
 |PROS|CONS|
 |-|-|
@@ -87,7 +87,7 @@ Add some description of the idea here.
 |blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
 
 ---
-### IDEA 8: Blah blah (original by [mention the member's name])
+### IDEA 8: Mobile Application to Train Teachers for Hybrid Classrooms (original by [Ali Salman])
 Add some description of the idea here. 
 |PROS|CONS|
 |-|-|
@@ -96,7 +96,7 @@ Add some description of the idea here.
 |blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
 
 ---
-### IDEA 9: Blah blah (original by [mention the member's name])
+### IDEA 9: AI Based Case Study Designer App For Students (original by [Ali Salman])
 Add some description of the idea here. 
 |PROS|CONS|
 |-|-|
@@ -105,7 +105,7 @@ Add some description of the idea here.
 |blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
 
 ---
-### IDEA 10: Blah blah (original by [mention the member's name])
+### IDEA 10: E-Classrooms with Class Scheduler and online sessions (original by [Ali Salman])
 Add some description of the idea here. 
 |PROS|CONS|
 |-|-|
@@ -121,7 +121,7 @@ Add some description of the idea here.
 
 ## Ideas by Member 2
 
-<img src="https://user-images.githubusercontent.com/61619701/146824321-4ccf2efe-f296-477d-a38a-e1cf86eafb7a.jpeg">
+![Ideas](https://user-images.githubusercontent.com/61619701/146824321-4ccf2efe-f296-477d-a38a-e1cf86eafb7a.jpeg)
 
 ## Ideas by Member 3
 
