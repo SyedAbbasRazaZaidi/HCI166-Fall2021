@@ -11,9 +11,9 @@
 
 Our Problem is Hybrid Classrooms for Underprivileged Students.So to focus on the problem we have divided our problem in two sections:
 
-*Underprivileged Students
+* Underprivileged Students
 
-*Hybrid Classrooms
+* Hybrid Classrooms
 
 This was a basic insight to our problem. Now coming down to challenges we faced while solving these problems. We discovered that we want to build a hybrid classroom in a remote area so
 
