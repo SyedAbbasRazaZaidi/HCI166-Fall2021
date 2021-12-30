@@ -131,6 +131,6 @@ Add some description of the idea here.
 
 
 ## Group Brainstorm Session 
-![Add the image to of group brainstorming session to gitHub and then put its link here]( ![Group Brain Storming](https://user-images.githubusercontent.com/61627416/147772355-ec220791-9301-4c48-a9ee-0444d3d62548.jpg "Group Branin Storming")
+![group brainstorming session](https://user-images.githubusercontent.com/61627416/147772355-ec220791-9301-4c48-a9ee-0444d3d62548.jpg "Group Branin Storming")
 
    
