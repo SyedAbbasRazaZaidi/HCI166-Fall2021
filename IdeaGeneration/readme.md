@@ -89,30 +89,30 @@ Add some description of the idea here.
 
 ---
 ### IDEA 8: Mobile Application to Train Teachers for Hybrid Classrooms (original by [Ali Salman])
-Add some description of the idea here. 
+A web based application for automatically making class schedule using Artificial Intelligence and it will also be used for taking class sessions online.
 |PROS|CONS|
 |-|-|
-|blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
-|blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah blah blah...|
-|blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
+|Time tables can automatically be made without any clashes and errors|Internet will be required to use this application so students living in remote areas will face some connection issues during online classes|
+|Students that are living very far from school or in remote areas can take the classes online easily|Changing of the time table will be a headache because changing of one class schedule will require many changes in other class timings as well|
+|Online sessions can also be recorded for future revision of the topics|It will require a smart device which many students will not be able to afford|
 
 ---
 ### IDEA 9: AI Based Case Study Designer App For Students (original by [Ali Salman])
-Add some description of the idea here. 
+An Artificial Intelligence based application which will be used to make different Case studies of the topic taught in the class and assigning them to the students and taking their submissions for the record for teacher. 
 |PROS|CONS|
 |-|-|
-|blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
-|blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah blah blah...|
-|blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
+|Topic wise case studies will prepare the student for future quizes and examination|Students living in remote areas can face connectivity issues during submission of their work because the application will work on internet connectivity|
+|Teacher can look upon all students activities and their progress in the course|Case studies will be made automatically using Artificial Intelligence and because of that many students can face understanding issues|
+|Submissions will be saved on application which will be downloadable for both teacher and students if they accidently delete their files|Teachers will have to look each and every students submissions to check whether the submissions are correct or not|
 
 ---
 ### IDEA 10: E-Classrooms with Class Scheduler and online sessions (original by [Ali Salman])
-Add some description of the idea here. 
+A Mobile Application which will be used to train the teachers who are not familiar with new technologies and Hybrid teaching or classrooms.
 |PROS|CONS|
 |-|-|
-|blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
-|blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah blah blah...|
-|blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
+|Application can be used without internet connectivity|A smart device will be required to run this application which is not afforable for many people|
+|Teachers will be guided step by step by the application to train them properly and will also take quiz for confirmation whether they are now ready or not|Application size can be heavier because of the data storing in local device for accessing application on the device having no internet connection|
+|This type of application can also be used by students to train them for online classes|The users that will use the application for the first time can face some issues understanding the working of the application|
 
 
 
