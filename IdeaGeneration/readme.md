@@ -58,18 +58,18 @@ Our Learning Path is basically a platform whish consist of enhanced and high lev
 Add some description of the idea here. 
 |PROS|CONS|
 |-|-|
-|blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
-|blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah blah blah...|
-|blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
+|It can solve all the problems like grading, attend quizzes in a limited time.|It take considerable amount of time to submit the file.|
+|Because of cloud based server teachers can see the students material and Mark out the progress of them.|Our organization must have IT platform to manage all system.|
+|It allows to consolidate all of the materials into one place then students can access Everytime and Student can easily ask the queries to their teachers and easily access to online forums.|It create a many challenges for teachers for design and organize a mix of learning activities.|
 
 ---
 ### IDEA 5: Application for Video call (original by [Saqlain])
 Add some description of the idea here. 
 |PROS|CONS|
 |-|-|
-|blah blah blah blahblah blah...|blah blah blah blah blah blah blah blah...|
-|blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah blah blah...|
-|blah blahblah blah blah blah blah blah blah blah ...|blah blah blah blah blah blah blah blah blah blah...|
+|It allows the most of the participants on a free basis plan but if u want more participants to see the face u should buy paid plan .|It can show the noisy environment from the students.|
+|It allows you to showcase your original profile.|Video stream with students may not do the multitask like chat or annotations.|
+|Live video can be embedded to our own application to record , pause and manage the sessions.|Network instability and time lagging.|
 
 ---
 ### IDEA 6: Mobile Application to submit Assignments & Notes w.r.t Courses (original by [Saqlain])
