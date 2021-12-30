@@ -55,7 +55,7 @@ Our Learning Path is basically a platform whish consist of enhanced and high lev
 
 ---
 ### IDEA 4: Management System to Manage Courses & Assignments (original by [Saqlain])
-Add some description of the idea here. 
+A web application to allocate the administration, tracking, documentation, reporting and automation marking system and deliver the educational course. Faculty posting the syllabus and class material, quiz & assignment by setting of timings and automatically grade the sheets. 
 |PROS|CONS|
 |-|-|
 |It can solve all the problems like grading, attend quizzes in a limited time.|It take considerable amount of time to submit the file.|
@@ -64,7 +64,7 @@ Add some description of the idea here.
 
 ---
 ### IDEA 5: Application for Video call (original by [Saqlain])
-Add some description of the idea here. 
+It can be desktop or mobile call and meeting system using an internet connection that utilize the video of live picture of person within the limited persons like google meeting, zoom, DUO etc. We can use online services that provide us SDK and APIs to built the high robust video meeting via network programming.
 |PROS|CONS|
 |-|-|
 |It allows the most of the participants on a free basis plan but if u want more participants to see the face u should buy paid plan .|It can show the noisy environment from the students.|
@@ -73,7 +73,7 @@ Add some description of the idea here.
 
 ---
 ### IDEA 6: Mobile Application to submit Assignments & Notes w.r.t Courses (original by [Saqlain])
-Add some description of the idea here. 
+A mobile application which connect with our website to access anywhere and anytime. You can check all the features which we can discuss above easily and check all the notification of upcoming feeds.
 |PROS|CONS|
 |-|-|
 |We can access anywhere and anytime by using internet.|If the content is not responsive user facing a lot of issues .|
@@ -82,7 +82,8 @@ Add some description of the idea here.
 
 ---
 ### IDEA 7: AI Based Appliaction to monitor Learning (original by [Saqlain])
-Add some description of the idea here. 
+In modern era, an AI monitoring system use Machine learning algorthims to connect with your system and constantly tracking the person in real time and alert you when you needed. 
+For Example: It can analyze patterns in which a large number of students submit wrong answers to the same questions. By alerting the educator to these patterns.
 |PROS|CONS|
 |-|-|
 |It can allow the teachers to understand how students learn and giving the activities accordingly.|Cost of maintenance, installation, efficiency are more than high power to consume the better application.|
