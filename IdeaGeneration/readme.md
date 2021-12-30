@@ -10,8 +10,8 @@
 ## Core Problem: Double Diamond Framework
 
 Our Problem is Hybrid Classrooms for Underprivillaged Students so to focus we have divided our problem in two sections :
-    i) Underprivillaged Students
-   ii) Hyprid Classromms
+   * Underprivillaged Students
+   * Hyprid Classromms
    
  This was a basic insight to our problem now coming down to challenges we discover while solving these problems are that we want to build a hybrid classroom in a remote area
  so how a person manage it ? Are they trained enough to use these emerging solutions? Are these solutions Compatible with our problem ? Would we be able to provide the same 
