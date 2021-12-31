@@ -1,13 +1,13 @@
 **Persona (Old Teacher):**
 
-Name: 
+Name: Zia Khan
 
-Age: 
+Age: 55
 
-Occupation: 
+Occupation: Teacher at Federal Primary and Secondary School of Sujawal District
 
-Hobbies: 
+Hobbies: Watching dramas, spending time with family, eating out
 
-Likes: 
+Likes: Books, novels, stories, artifacts, paintings
 
-Dislikes: 
+Dislikes: Music, walking, talking alot, working hard
