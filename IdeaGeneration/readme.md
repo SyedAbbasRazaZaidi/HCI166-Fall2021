@@ -92,12 +92,12 @@ For Example: It can analyze patterns in which a large number of students submit 
 
 ---
 ### IDEA 8: Mobile Application to Train Teachers for Hybrid Classrooms (original by [Ali Salman])
-A web based application for automatically making class schedule using Artificial Intelligence and it will also be used for taking class sessions online.
+A Mobile Application which will be used to train the teachers who are not familiar with new technologies and Hybrid teaching or classrooms.
 |PROS|CONS|
 |-|-|
-|Time tables can automatically be made without any clashes and errors|Internet will be required to use this application so students living in remote areas will face some connection issues during online classes|
-|Students that are living very far from school or in remote areas will be able to take the classes online|Changing of the time table will be a headache because changing of one class schedule will require many changes in other class timings as well|
-|Online sessions can also be recorded for future revision of the topics|It will require a smart device which many students will not be able to afford|
+|Application can be used without internet connectivity|A smart device will be required to run this application which is not afforable for many people|
+|Teachers will be guided step by step by the application to train them properly and will also take quiz for confirmation whether they are now ready or not|Application size can be heavier because of the data storing in local device for accessing application on the device having no internet connection|
+|This type of application can also be used by students to train them for online classes|The users that will use the application for the first time can face some issues understanding the working of the application|
 
 ---
 ### IDEA 9: AI Based Case Study Designer App For Students (original by [Ali Salman])
@@ -110,12 +110,12 @@ An Artificial Intelligence based application which will be used to make differen
 
 ---
 ### IDEA 10: E-Classrooms with Class Scheduler and online sessions (original by [Ali Salman])
-A Mobile Application which will be used to train the teachers who are not familiar with new technologies and Hybrid teaching or classrooms.
+A web based application for automatically making class schedule using Artificial Intelligence and it will also be used for taking class sessions online.
 |PROS|CONS|
 |-|-|
-|Application can be used without internet connectivity|A smart device will be required to run this application which is not afforable for many people|
-|Teachers will be guided step by step by the application to train them properly and will also take quiz for confirmation whether they are now ready or not|Application size can be heavier because of the data storing in local device for accessing application on the device having no internet connection|
-|This type of application can also be used by students to train them for online classes|The users that will use the application for the first time can face some issues understanding the working of the application|
+|Time tables can automatically be made without any clashes and errors|Internet will be required to use this application so students living in remote areas will face some connection issues during online classes|
+|Students that are living very far from school or in remote areas will be able to take the classes online|Changing of the time table will be a headache because changing of one class schedule will require many changes in other class timings as well|
+|Online sessions can also be recorded for future revision of the topics|It will require a smart device which many students will not be able to afford|
 
 
 
