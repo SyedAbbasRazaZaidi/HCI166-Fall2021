@@ -1,13 +1,13 @@
 **Persona (Young Teacher):**
 
-Name: 
+Name: Ahmed Mirza
 
-Age: 
+Age: 26
 
-Occupation: 
+Occupation: Teacher at Sujawal School Of Sciences
 
-Hobbies: 
+Hobbies: Exploring new things, travelling, book reading, body building
 
-Likes: 
+Likes: Hanging out with friends, chatting, video games, teaching
 
-Dislikes: 
+Dislikes: Smoking, noisy environment.
