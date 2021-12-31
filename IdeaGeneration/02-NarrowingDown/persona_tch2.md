@@ -10,4 +10,4 @@ Hobbies: Watching dramas, spending time with family, eating out
 
 Likes: Books, novels, stories, artifacts, paintings
 
-Dislikes: Music, walking, talking alot, working hard
+Dislikes: Music, walking, talking alot, working late
