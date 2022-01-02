@@ -11,11 +11,11 @@
 
      * Fianl Idea Selected is Proctor Based Examination system an enhanced and one of the feature of hybrid classrooms an interactive proctor based examination system which will also provice the functionality for students to contact their teachers for p2p learning experience and many more 
 
-        #### Best three ideas 
-        Proctor Based Examination system
-        |Proctor Based Examination system|
-        |Management System to Manage Courses & Assignments|
-        |E-Classrooms with Class Scheduler and online sessions|
+#### Best three ideas 
+
+            i) Proctor Based Examination system
+           ii) Management System to Manage Courses & Assignments
+          iii) E-Classrooms with Class Scheduler and online sessions
         
 
 
