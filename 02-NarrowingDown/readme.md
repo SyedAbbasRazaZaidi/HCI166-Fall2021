@@ -13,7 +13,7 @@
 
 #### Best three ideas 
 
-            i) Proctor Based Examination system
+            i) Proctor Based Examination & Learning system
            ii) Management System to Manage Courses & Assignments
           iii) E-Classrooms with Class Scheduler and online sessions
         
