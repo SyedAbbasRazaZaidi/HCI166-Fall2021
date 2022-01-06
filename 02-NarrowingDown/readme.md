@@ -7,7 +7,7 @@
 |63758|Ali Salman Hassan|
 
 ## Final Selected Idea: 
-  * Proctor Based Examination system
+  * Proctor Based Examination & Learning system
 
      * Fianl Idea Selected is Proctor Based Examination system an enhanced and one of the feature of hybrid classrooms an interactive proctor based examination system which will also provice the functionality for students to contact their teachers for p2p learning experience and many more 
 
