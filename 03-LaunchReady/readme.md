@@ -75,7 +75,7 @@ Design is divides in 4 sections :
    ![wfTchr04](https://user-images.githubusercontent.com/61627416/148567093-3e6b0c48-8439-4eba-b2ab-6f014a456452.png "View Assigned Quiz/Assignments/Exams")
 
 
-  * **Admin Dasboard**
+  * **Admin Dashboard**
 
    ![wfAdm01](https://user-images.githubusercontent.com/61627416/148567116-dd776af0-09d3-49c2-bfc9-a4fe0f28749f.png "Admin Dasboard")
 
