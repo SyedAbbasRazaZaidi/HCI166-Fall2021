@@ -24,14 +24,14 @@ Design is divides in 4 sections :
 
 #### Login:
 
-   We have avoided multiple login instead we have chosen single login screen which will log the user in according to there email and password
+   We have avoided multiple login instead we have chosen single login screen which will log the user in according to their email and password
                 
    ![wfStd01](https://user-images.githubusercontent.com/61627416/148562641-69e6e1cb-fb01-45aa-b222-87f1d9472aa3.png "Login Screen")
 
 #### Student Screens:
 
    * **Dashboard**
-   Student can view recently used courses he can see popup notifications if any of the enrolled courses is having classes he will also get option to join that class
+   Student can view recently accessed courses he can see popup notifications if any of the enrolled courses is having classes he will also get option to join that class
    or ignore it at the left corner he can view upcoming courses and assignments so he can be prepared for it in short student will get a short overview of updates regarding 
    enrolled courses
    
@@ -44,19 +44,19 @@ Design is divides in 4 sections :
    ![wfStd03](https://user-images.githubusercontent.com/61627416/148563669-be348068-39f0-42e4-b4f0-cb3e7fb1b594.png "Schedule p2p Learn")
    
   * **View Courses**
-   On this designated view student can see all the courses enrolled by him/her. by clicking them he will be able to view details like lecture uploads, Assignment uploads and        various announcement student will also get a popup on the course if any pending assignments or quizes are added.
+   On this designated view student can see all the courses enrolled by him/her. By clicking them he will be able to view details like lecture uploads, Assignment uploads and        various announcement student will also get a popup on the course if any pending assignments or quizes are added.
    
    ![wfStd04](https://user-images.githubusercontent.com/61627416/148564252-6faf29e6-c43f-475e-84d8-db97b3c37f41.png "View Courses")
    
   * **View Upcoming Exams**
-   Student can view the upcoming exams on calendar through highlighted areas he can join the exam in progress which will be proctor based.student will also be able to see their    grades w.r.t their courses.
+   Student can view the upcoming exams on calendar through highlighted areas he can join the exam in progress which will be proctor based.Student will also be able to see their    grades w.r.t their courses.
   
    ![wfStd05](https://user-images.githubusercontent.com/61627416/148564808-ddef8c11-d1c7-46fd-b6b5-c575289a7d30.png "View Upcoming Exam")
    
 #### Teacher's Screens:
 
   * **Teacher's Dashboard**
-   Teacher can view the courses they have been assigned, Exams Assigned to them i.e. they have to proctor they can start an online session directly they hvae scheduled before by    the admin.
+   Teacher can view the courses they have been assigned, Exams Assigned to them i.e. they have to proctor they can start an online session directly they have scheduled before by    the admin.
    
    ![wfTchr01](https://user-images.githubusercontent.com/61627416/148565310-c846fd50-5ac2-4ec8-9ee9-7a5fa871b4a7.png "Teacher's Dashboard")
    
@@ -99,7 +99,7 @@ Design is divides in 4 sections :
    ![wfAdm05](https://user-images.githubusercontent.com/61627416/148567253-89ccf780-4967-4a1b-9764-20180befeba9.png "Manage Students")
 
 
-Refrences: 
+References: 
    * https://interactions.acm.org/blog/view/wireframes-defined
    * https://medium.com/@shrutipmahajan/human-computer-interaction-good-design-c219aa01a03#:~:text=A%20good%20design%20in%20the,their%20clear%20and%20logical%20thinking
    * http://hci.ilikecake.ie/eval_evaluation.htm
