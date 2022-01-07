@@ -98,3 +98,9 @@ Design is divides in 4 sections :
    
    ![wfAdm05](https://user-images.githubusercontent.com/61627416/148567253-89ccf780-4967-4a1b-9764-20180befeba9.png "Manage Students")
 
+
+Refrences: 
+   * https://interactions.acm.org/blog/view/wireframes-defined
+   * https://medium.com/@shrutipmahajan/human-computer-interaction-good-design-c219aa01a03#:~:text=A%20good%20design%20in%20the,their%20clear%20and%20logical%20thinking
+   * http://hci.ilikecake.ie/eval_evaluation.htm
+
