@@ -66,36 +66,37 @@ Design is divides in 4 sections :
    ![wfTchr02](https://user-images.githubusercontent.com/61627416/148565651-195bafbe-f0f5-4d22-ad2d-a62b7994950b.png "Manage Courses")
  
   * **Add Quiz/Assignments/Exams**
-
+    Teacher can select the course and assign specific task to that course for students like quiz/assignment/exam and will select the date and time for that and will upload the       quiz/assignment/exam file and will add the task.
+    
    ![wfTchr03](https://user-images.githubusercontent.com/61627416/148567070-025289a4-13b9-45e0-98fa-e38b26fdb930.png "Add Quiz/Assignments/Exams")
 
-
   * **View Assigned Quiz/Assignments/Exams**
-   
+    Teacher can see all the tasks like quizzes, assignments and exams list that he has assigned to the courses for students.
+      
    ![wfTchr04](https://user-images.githubusercontent.com/61627416/148567093-3e6b0c48-8439-4eba-b2ab-6f014a456452.png "View Assigned Quiz/Assignments/Exams")
 
-
   * **Admin Dashboard**
+    Admin can view all the courses, teachers and students details and can also logout from his account
 
    ![wfAdm01](https://user-images.githubusercontent.com/61627416/148567116-dd776af0-09d3-49c2-bfc9-a4fe0f28749f.png "Admin Dasboard")
 
   * **Manage Courses**
+   Admin can see the added courses and by hovering on the course box/area, he can also see which teacher is assigned to that course and can also add course by entering its name    and detail and adding it
    
    ![wfAdm02](https://user-images.githubusercontent.com/61627416/148567152-2c6758c8-790c-43e6-ade0-7d5f05bc6040.png "Manage Courses")
 
-
   * **Manage Teacher**
+    Admin can see the added teachers and by hovering on the teacher box/area, he can also see which courses is assigned to that teacher to teach and can also add the teacher by     entering its name and details and creating its account by entering email and password for it and adding it
 
    ![wfAdm03](https://user-images.githubusercontent.com/61627416/148567189-33367183-6e44-4430-9b7f-508f55845779.png "Manage Teacher")
 
-
   * **Assign Courses**
+    Admin can assign the teacher to the specific course by selecting the course name and teacher for it and the day and time on which the class will be held and assinging it.
 
    ![wfAdm04](https://user-images.githubusercontent.com/61627416/148567211-0d66f632-2413-473a-ba3d-26e143820ebc.png "Assign Courses")
   
-  
   * **Manage Students**
-   
+    Admin can see the added students and by hovering on the student box/area, he can also see which courses is the student is studying and can also add the student by entering       its name and details and creating its account by entering email and password for it and adding it
    ![wfAdm05](https://user-images.githubusercontent.com/61627416/148567253-89ccf780-4967-4a1b-9764-20180befeba9.png "Manage Students")
 
 
