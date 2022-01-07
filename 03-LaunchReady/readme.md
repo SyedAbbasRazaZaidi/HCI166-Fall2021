@@ -53,9 +53,14 @@ Design is divides in 4 sections :
   
    ![wfStd05](https://user-images.githubusercontent.com/61627416/148564808-ddef8c11-d1c7-46fd-b6b5-c575289a7d30.png "View Upcoming Exam")
    
-#### Student Screens:
+#### Teacher's Screens:
 
    Teacher's Dashboard:
    Teacher can view the courses they have been assigned, Exams Assigned to them i.e. they have to proctor they can start an online session directly they hvae scheduled before by    the admin.
    
    ![wfTchr01](https://user-images.githubusercontent.com/61627416/148565310-c846fd50-5ac2-4ec8-9ee9-7a5fa871b4a7.png "Teacher's Dashboard")
+   
+   Manage Courses:
+   On this view teacher can Manage courses view the progress of the students on the quizes and assignments they can get a detailed view of the courses assigned to them.
+   
+   ![wfTchr02](https://user-images.githubusercontent.com/61627416/148565651-195bafbe-f0f5-4d22-ad2d-a62b7994950b.png "Manage Courses")
