@@ -24,7 +24,7 @@ Design is divides in 4 sections :
 
 #### Login:
 
-   We have avioded multiple login instead we have chosen single login screen which will log the user in according to there email and password
+   We have avoided multiple login instead we have chosen single login screen which will log the user in according to there email and password
                 
    ![wfStd01](https://user-images.githubusercontent.com/61627416/148562641-69e6e1cb-fb01-45aa-b222-87f1d9472aa3.png "Login Screen")
 
