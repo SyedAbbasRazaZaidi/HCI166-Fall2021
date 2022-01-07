@@ -64,3 +64,37 @@ Design is divides in 4 sections :
    On this view teacher can Manage courses view the progress of the students on the quizes and assignments they can get a detailed view of the courses assigned to them.
    
    ![wfTchr02](https://user-images.githubusercontent.com/61627416/148565651-195bafbe-f0f5-4d22-ad2d-a62b7994950b.png "Manage Courses")
+ 
+  * **Add Quiz/Assignments/Exams**
+
+   ![wfTchr03](https://user-images.githubusercontent.com/61627416/148567070-025289a4-13b9-45e0-98fa-e38b26fdb930.png "Add Quiz/Assignments/Exams")
+
+
+  * **View Assigned Quiz/Assignments/Exams**
+   
+   ![wfTchr04](https://user-images.githubusercontent.com/61627416/148567093-3e6b0c48-8439-4eba-b2ab-6f014a456452.png "View Assigned Quiz/Assignments/Exams")
+
+
+  * **Admin Dasboard**
+
+   ![wfAdm01](https://user-images.githubusercontent.com/61627416/148567116-dd776af0-09d3-49c2-bfc9-a4fe0f28749f.png "Admin Dasboard")
+
+  * **Manage Courses**
+   
+   ![wfAdm02](https://user-images.githubusercontent.com/61627416/148567152-2c6758c8-790c-43e6-ade0-7d5f05bc6040.png "Manage Courses")
+
+
+  * **Manage Teacher**
+
+   ![wfAdm03](https://user-images.githubusercontent.com/61627416/148567189-33367183-6e44-4430-9b7f-508f55845779.png "Manage Teacher")
+
+
+  * **Assign Courses**
+
+   ![wfAdm04](https://user-images.githubusercontent.com/61627416/148567211-0d66f632-2413-473a-ba3d-26e143820ebc.png "Assign Courses")
+  
+  
+  * **Manage Students**
+   
+   ![wfAdm05](https://user-images.githubusercontent.com/61627416/148567253-89ccf780-4967-4a1b-9764-20180befeba9.png "Manage Students")
+
