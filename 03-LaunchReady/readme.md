@@ -75,6 +75,8 @@ Design is divides in 4 sections :
       
    ![wfTchr04](https://user-images.githubusercontent.com/61627416/148567093-3e6b0c48-8439-4eba-b2ab-6f014a456452.png "View Assigned Quiz/Assignments/Exams")
 
+#### Admin Screens:
+
   * **Admin Dashboard**
     Admin can view all the courses, teachers and students details and can also logout from his account
 
