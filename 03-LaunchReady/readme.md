@@ -30,37 +30,37 @@ Design is divides in 4 sections :
 
 #### Student Screens:
 
-   Dashboard:
+   * **Dashboard**
    Student can view recently used courses he can see popup notifications if any of the enrolled courses is having classes he will also get option to join that class
    or ignore it at the left corner he can view upcoming courses and assignments so he can be prepared for it in short student will get a short overview of updates regarding 
    enrolled courses
    
    ![wfStd02](https://user-images.githubusercontent.com/61627416/148563379-85da090a-e416-430e-9997-c1cd44f5e4ae.png "Student Dasboard")
 
-   Schedule P2P Learn:
+  * **Schedule P2P Learn**
    P2P Learn is a feature where student can learn directly on video call with teachers or talk to teachers regarding any queries with supervised learning student can see already
    reserved days on the calender at the right top can select course date and time with short reason for the class and submit request for p2p learn
    
    ![wfStd03](https://user-images.githubusercontent.com/61627416/148563669-be348068-39f0-42e4-b4f0-cb3e7fb1b594.png "Schedule p2p Learn")
    
-   View Courses:
+  * **View Courses**
    On this designated view student can see all the courses enrolled by him/her. by clicking them he will be able to view details like lecture uploads, Assignment uploads and        various announcement student will also get a popup on the course if any pending assignments or quizes are added.
    
    ![wfStd04](https://user-images.githubusercontent.com/61627416/148564252-6faf29e6-c43f-475e-84d8-db97b3c37f41.png "View Courses")
    
-   View Upcoming Exams:
+  * **View Upcoming Exams**
    Student can view the upcoming exams on calendar through highlighted areas he can join the exam in progress which will be proctor based.student will also be able to see their    grades w.r.t their courses.
   
    ![wfStd05](https://user-images.githubusercontent.com/61627416/148564808-ddef8c11-d1c7-46fd-b6b5-c575289a7d30.png "View Upcoming Exam")
    
 #### Teacher's Screens:
 
-   Teacher's Dashboard:
+  * **Teacher's Dashboard**
    Teacher can view the courses they have been assigned, Exams Assigned to them i.e. they have to proctor they can start an online session directly they hvae scheduled before by    the admin.
    
    ![wfTchr01](https://user-images.githubusercontent.com/61627416/148565310-c846fd50-5ac2-4ec8-9ee9-7a5fa871b4a7.png "Teacher's Dashboard")
    
-   Manage Courses:
+  * **Manage Courses**
    On this view teacher can Manage courses view the progress of the students on the quizes and assignments they can get a detailed view of the courses assigned to them.
    
    ![wfTchr02](https://user-images.githubusercontent.com/61627416/148565651-195bafbe-f0f5-4d22-ad2d-a62b7994950b.png "Manage Courses")
