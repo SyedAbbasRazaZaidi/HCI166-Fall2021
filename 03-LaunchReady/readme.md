@@ -1,4 +1,4 @@
-## Launch Ready : Idea : Proctor Based Examination & Learning system
+## Launch Ready : Idea : Proctor Based Examination & Learning System
 
 ### Group Members:
 
@@ -11,11 +11,11 @@ Student ID      |     Name
    
    ### Background
       
-Our final Idea was Proctor Based Examination & Learning System we got that idea after merging two ideas within a single platform A platform where all the entities the Admin Teacher and our first priority student can access all the resources can schedule learning according to there feasibility with ease of access and efficiently we achieved this idea after a a group brainstorming session storyboard and scenario roleplays in the narrowing down part we thought that merging all the platform and visualizing them under one roof of a web application would be a great and healthy initiative we followed a long process of design thinking and discussing interacting with the limited case studies and online surveys we created a functional wireframe by using "Power Mockup" which is an extension to powerpoint but before that there has to be a rough sketch a low-fi prototype that were the paper prototypes we made paper prototypes cleared our mind for the wireframes the options we have to give the design, How to keep it simple and efficient how make the design **user Centered** HCI concepts helped us a lot in this process the concepts  were in our mind sub-conciously above in the repo you can visit our wireframes and see how much we have implemented those concepts we tried our best to cover all the aspects in the amount of time provided :smiley: . 
+Our final Idea was Proctor Based Examination & Learning System we got that idea after merging two ideas within a single platform. A platform where all the entities Admin, Teacher and our first priority the student can access all the resources and can schedule learning according to there flexibility with ease of access and efficiently. We have achieved this idea after a group brainstorming session, storyboarding and scenario roleplays in the narrowing down part. We thought that merging all the platform and visualizing them under one roof of a web application would be a great and healthy initiative we followed a long process of design thinking and discussing interacting with the limited case studies and online surveys we created a functional wireframe by using "Power Mockup" which is an extension to powerpoint but before that there has to be a rough sketch a low-fi prototype that were the paper prototypes we made paper prototypes cleared our mind for the wireframes the options we have to give the design, How to keep it simple and efficient how make the design **user Centered** HCI concepts helped us a lot in this process the concepts  were in our mind sub-conciously above in the repo you can visit our wireframes and see how much we have implemented those concepts we tried our best to cover all the aspects in the amount of time provided :smiley: . 
 
    ### About the Design:
 
-Design is divides in 4 sections :
+We have divided our design into 4 sections:
 
 * Login (Generic i.e. Same for Admin,Student and Teacher)
 * Student Screens
@@ -24,7 +24,7 @@ Design is divides in 4 sections :
 
 #### Login:
 
-   We have avoided multiple login instead we have chosen single login screen which will log the user in according to their email and password
+   We have avoided multiple login screeens. Instead we have developed a single login screen which will log the user in according to their email and password
                 
    ![wfStd01](https://user-images.githubusercontent.com/61627416/148562641-69e6e1cb-fb01-45aa-b222-87f1d9472aa3.png "Login Screen")
 
