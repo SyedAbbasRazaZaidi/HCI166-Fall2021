@@ -1,5 +1,7 @@
 using System;
-using System.Linq;
+using System.Collections.Generic;
+using System.IO;
+using System.Xml;
 using Microsoft.Xrm.Sdk;
 using Microsoft.Xrm.Sdk.Query;
 
@@ -23,9 +25,9 @@ namespace YourNamespace
                     Guid importId = (Guid)context.InputParameters["ImportId"];
 
                     // Retrieve the imported records from the import file
-                    EntityCollection importedRecords = GetImportedRecords(service, importId);
+                    List<Entity> importedRecords = GetImportedRecords(service, importId);
 
-                    foreach (Entity importedRecord in importedRecords.Entities)
+                    foreach (Entity importedRecord in importedRecords)
                     {
                         // Retrieve the previous record from the "tco_bp_crafts" entity
                         Guid entityId = importedRecord.GetAttributeValue<Guid>("tco_bp_craftsid");
@@ -50,29 +52,48 @@ namespace YourNamespace
             }
         }
 
-        private EntityCollection GetImportedRecords(IOrganizationService service, Guid importId)
+        private List<Entity> GetImportedRecords(IOrganizationService service, Guid importId)
         {
             // Retrieve the imported records from the import file
-            QueryExpression query = new QueryExpression("importfile");
+            QueryExpression query = new QueryExpression("importmap");
             query.Criteria.AddCondition("importid", ConditionOperator.Equal, importId);
-            query.ColumnSet = new ColumnSet(true);
+            query.ColumnSet = new ColumnSet("importxml");
 
             EntityCollection results = service.RetrieveMultiple(query);
 
+            List<Entity> importedRecords = new List<Entity>();
+
             if (results.Entities.Count > 0)
             {
-                Entity importFile = results.Entities[0];
-                if (importFile.Contains("importxml"))
+                Entity importMap = results.Entities[0];
+                if (importMap.Contains("importxml"))
                 {
-                    string importXml = importFile.GetAttributeValue<string>("importxml");
+                    string importXml = importMap.GetAttributeValue<string>("importxml");
 
                     // Parse the import XML to retrieve the imported records
-                    ImportXmlParser parser = new ImportXmlParser(importXml);
-                    return parser.ParseImportXml();
+                    XmlDocument xmlDoc = new XmlDocument();
+                    xmlDoc.LoadXml(importXml);
+
+                    XmlNodeList recordNodes = xmlDoc.GetElementsByTagName("record");
+
+                    foreach (XmlNode recordNode in recordNodes)
+                    {
+                        Entity importedRecord = new Entity("tco_bp_crafts");
+
+                        foreach (XmlNode fieldNode in recordNode.ChildNodes)
+                        {
+                            string fieldName = fieldNode.Attributes["name"].Value;
+                            string fieldValue = fieldNode.InnerText;
+
+                            importedRecord[fieldName] = fieldValue;
+                        }
+
+                        importedRecords.Add(importedRecord);
+                    }
                 }
             }
 
-            return new EntityCollection();
+            return importedRecords;
         }
 
         private Entity GetPreviousRecord(IOrganizationService service, Guid entityId)
