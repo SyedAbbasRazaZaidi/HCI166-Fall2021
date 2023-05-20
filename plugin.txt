@@ -1,0 +1,137 @@
+using System;
+using System.Linq;
+using Microsoft.Xrm.Sdk;
+using Microsoft.Xrm.Sdk.Query;
+
+namespace YourNamespace
+{
+    public class ImportDataUpdatePlugin : IPlugin
+    {
+        public void Execute(IServiceProvider serviceProvider)
+        {
+            // Obtain the execution context from the service provider
+            IPluginExecutionContext context = (IPluginExecutionContext)serviceProvider.GetService(typeof(IPluginExecutionContext));
+            IOrganizationServiceFactory serviceFactory = (IOrganizationServiceFactory)serviceProvider.GetService(typeof(IOrganizationServiceFactory));
+            IOrganizationService service = serviceFactory.CreateOrganizationService(context.UserId);
+
+            // Check if the plugin is triggered by the import event
+            if (context.MessageName.Equals("Import"))
+            {
+                // Retrieve the imported data from the context
+                if (context.InputParameters.Contains("ImportId"))
+                {
+                    Guid importId = (Guid)context.InputParameters["ImportId"];
+
+                    // Retrieve the imported records from the import file
+                    EntityCollection importedRecords = GetImportedRecords(service, importId);
+
+                    foreach (Entity importedRecord in importedRecords.Entities)
+                    {
+                        // Retrieve the previous record from the "tco_bp_crafts" entity
+                        Guid entityId = importedRecord.GetAttributeValue<Guid>("tco_bp_craftsid");
+                        Entity previousRecord = GetPreviousRecord(service, entityId);
+
+                        if (previousRecord != null)
+                        {
+                            // Compare the imported data with the previous record
+                            bool isChanged = CheckIfDataChanged(previousRecord, importedRecord);
+
+                            if (isChanged)
+                            {
+                                // Update the other columns with the imported values
+                                UpdateOtherColumns(service, previousRecord, importedRecord);
+
+                                // Update the record in the "tco_bp_crafts" entity
+                                service.Update(previousRecord);
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        private EntityCollection GetImportedRecords(IOrganizationService service, Guid importId)
+        {
+            // Retrieve the imported records from the import file
+            QueryExpression query = new QueryExpression("importfile");
+            query.Criteria.AddCondition("importid", ConditionOperator.Equal, importId);
+            query.ColumnSet = new ColumnSet(true);
+
+            EntityCollection results = service.RetrieveMultiple(query);
+
+            if (results.Entities.Count > 0)
+            {
+                Entity importFile = results.Entities[0];
+                if (importFile.Contains("importxml"))
+                {
+                    string importXml = importFile.GetAttributeValue<string>("importxml");
+
+                    // Parse the import XML to retrieve the imported records
+                    ImportXmlParser parser = new ImportXmlParser(importXml);
+                    return parser.ParseImportXml();
+                }
+            }
+
+            return new EntityCollection();
+        }
+
+        private Entity GetPreviousRecord(IOrganizationService service, Guid entityId)
+        {
+            // Retrieve the previous record from the "tco_bp_crafts" entity
+            ColumnSet columns = new ColumnSet(true);
+            Entity previousRecord = service.Retrieve("tco_bp_crafts", entityId, columns);
+
+            return previousRecord;
+        }
+
+        private bool CheckIfDataChanged(Entity previousRecord, Entity importedRecord)
+        {
+            // Compare the imported data with the previous record
+            // Here you can implement your specific comparison logic based on the columns and conditions you want to check
+
+            bool isChanged = false;
+            if (previousRecord.Contains("srNumber") && importedRecord.Contains("srNumber"))
+            {
+                string previousSrNumber = previousRecord.GetAttributeValue<string>("srNumber");
+                string importedSrNumber = importedRecord.GetAttributeValue<string>("srNumber");
+
+                if (previousSrNumber != importedSrNumber)
+                {
+                    isChanged = true;
+                }
+            }
+
+            // Check other columns for changes
+
+            return isChanged;
+        }
+
+        private void UpdateOtherColumns(IOrganizationService service, Entity previousRecord, Entity importedRecord)
+        {
+            // Update the other columns with the imported values
+            // Here you can implement the logic to update specific columns based on your requirements
+
+            if (importedRecord.Contains("comment"))
+            {
+                previousRecord["comment"] = importedRecord["comment"];
+            }
+
+            if (importedRecord.Contains("delta"))
+            {
+                previousRecord["delta"] = importedRecord["delta"];
+            }
+
+            if (importedRecord.Contains("planned"))
+            {
+                previousRecord["planned"] = importedRecord["planned"];
+            }
+
+            if (importedRecord.Contains("location"))
+            {
+                previousRecord["location"] = importedRecord["location"];
+            }
+
+            // Update other columns as needed
+        }
+    }
+}
