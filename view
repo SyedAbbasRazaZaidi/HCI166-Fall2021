@@ -1,0 +1,23 @@
+// Function to filter the entity list based on the logged-in user
+function filterEntityListByLoggedInUser() {
+  var userId = Xrm.Utility.getGlobalContext().userSettings.userId;
+
+  // Replace 'entityname' with the logical name of the entity you want to filter
+  var entityName = "entityname";
+
+  // Construct the fetchXml to filter the entity list
+  var fetchXml = "<fetch version='1.0' output-format='xml-platform' mapping='logical' distinct='false'>" +
+    "<entity name='" + entityName + "'>" +
+    "<filter type='and'>" +
+    "<condition attribute='owninguser' operator='eq' value='" + userId + "' />" +
+    "</filter>" +
+    "</entity>" +
+    "</fetch>";
+
+  // Set the fetchXml as the default view for the entity list
+  Xrm.Utility.getGlobalContext().getQueryStringParameters().etc = Xrm.Internal.getEntityCode(entityName);
+  Xrm.Utility.getGlobalContext().getQueryStringParameters().extraqs = "viewid={viewname}&viewtype=1039&fetchXml=" + encodeURIComponent(fetchXml);
+
+  // Refresh the entity list
+  Xrm.Utility.openEntityList(entityName);
+}
