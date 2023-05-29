@@ -1,28 +1,29 @@
-function getLoginUserTeam()
-        {
-          
-            var loggedInUserId = Xrm.Page.context.getUserId();
-            loggedInUserId = loggedInUserId.replace('{', '').replace('}', '');
-            var req = new XMLHttpRequest();
-            req.open("GET", Xrm.Page.context.getClientUrl() + "/api/data/v8.2/teams$select=name&$expand=teammembership_association($filter=systemuserid eq "+loggedInUserId+")",true);
-            req.setRequestHeader("OData-MaxVersion", "4.0");
-            req.setRequestHeader("OData-Version", "4.0");
-            req.setRequestHeader("Accept", "application/json");
-            req.setRequestHeader("Content-Type", "application/json; charset=utf-8");
-            req.onreadystatechange = function() {
-                if (this.readyState === 4) {
-                    req.onreadystatechange = null;
-                    if (this.status === 200) {
-                        var results = JSON.parse(this.response);
-                        // I have not tried you can debug results part 
-                        for (var i = 0; i < results.value.length; i++) {
-                            var teamname = results.value[i]["name"];
-                                                    
-                        }
-                    } else {
-                        Xrm.Utility.alertDialog(this.statusText);
-                    }
-                }
-            };
-            req.send();
+function GetUserTeams()
+{
+    var userSettings = Xrm.Utility.getGlobalContext().userSettings; // userSettings is an object with user information.
+    var current_User_Id = userSettings.userId; // The user's unique id
+    var newid = current_User_Id.slice(1, -1);	
+    var req = new XMLHttpRequest();
+req.open("GET", Xrm.Page.context.getClientUrl() + "/api/data/v9.1/teams?$select=name&$expand=teammembership_association($filter=systemuserid eq "+newid+")", true);
+req.setRequestHeader("OData-MaxVersion", "4.0");
+req.setRequestHeader("OData-Version", "4.0");
+req.setRequestHeader("Accept", "application/json");
+req.setRequestHeader("Content-Type", "application/json; charset=utf-8");
+req.setRequestHeader("Prefer", "odata.include-annotations=\"*\"");
+req.onreadystatechange = function() {
+    if (this.readyState === 4) {
+        req.onreadystatechange = null;
+        if (this.status === 200) {
+            var results = JSON.parse(this.response);
+            for (var i = 0; i < results.value.length; i++) {
+                var name = results.value[i]["name"];
+                             
+                alert(name);
+            }
+        } else {
+            Xrm.Utility.alertDialog(this.statusText);
         }
+    }
+};
+req.send();
+}
